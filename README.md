@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Unreal Engine and .Net**
 
-- 📫 How to reach me **muneebsahfi527@gmail.com**
+- 📫 How to reach me **muneebshafi527@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
